@@ -36,7 +36,7 @@ Execute the program using runserver command.
             <img src= "logo.png" height="100" width="800">
          </center>
 		<table align="center" border="5" cellspacing="6" cellpadding="5" bgcolor="lightgray">
-			<caption>SLOT TIME TABLE- Kavi M S (212223220044) </caption>
+			<caption>SLOT TIME TABLE- Jesubalan A (212223240060) </caption>
             <br>
 			<tr>
 				<th bgcolor="yellow"> Day/Time </th>
@@ -142,7 +142,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![313773908-e50ba2c9-bc46-464c-84fe-36707a3cade5](https://github.com/Jesubalan19/slot/assets/144979294/1bc43bf8-1623-4e6b-8d7b-91799c2ba694)
+![Screenshot 2024-03-25 234504](https://github.com/Jesubalan19/slot/assets/144979294/e3f4ee44-9d92-47e5-9bf7-01527a07b09c)
+
 
 
 ## RESULT
